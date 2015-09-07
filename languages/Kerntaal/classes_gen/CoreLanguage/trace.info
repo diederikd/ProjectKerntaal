@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="Language.java">
+      <unit at="46,21,46,56" name="CoreLanguage.Language$1" />
+      <unit at="18,0,57,0" name="CoreLanguage.Language" />
+    </file>
+  </root>
+</debug-info>
+

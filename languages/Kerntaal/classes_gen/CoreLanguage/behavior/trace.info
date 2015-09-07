@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="AbstractValue_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.AbstractValue_BehaviorDescriptor" />
+    </file>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="9,0,58,0" name="CoreLanguage.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="Concept_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    </file>
+    <file name="Context_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="CoreLanguage.behavior.Context_BehaviorDescriptor" />
+    </file>
+    <file name="Fact_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.Fact_BehaviorDescriptor" />
+    </file>
+    <file name="Facttype_BehaviorDescriptor.java">
+      <unit at="9,0,20,0" name="CoreLanguage.behavior.Facttype_BehaviorDescriptor" />
+    </file>
+    <file name="IdentifyingVariable_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.IdentifyingVariable_BehaviorDescriptor" />
+    </file>
+    <file name="IntegerType_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.IntegerType_BehaviorDescriptor" />
+    </file>
+    <file name="IntegerValue_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.IntegerValue_BehaviorDescriptor" />
+    </file>
+    <file name="ObjecttypeReferenceRole_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.ObjecttypeReferenceRole_BehaviorDescriptor" />
+    </file>
+    <file name="ObjecttypeRole_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.ObjecttypeRole_BehaviorDescriptor" />
+    </file>
+    <file name="ObjecttypeRoleinFacttype_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.ObjecttypeRoleinFacttype_BehaviorDescriptor" />
+    </file>
+    <file name="Objecttype_BehaviorDescriptor.java">
+      <unit at="10,0,21,0" name="CoreLanguage.behavior.Objecttype_BehaviorDescriptor" />
+    </file>
+    <file name="Phrase_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="CoreLanguage.behavior.Phrase_BehaviorDescriptor" />
+    </file>
+    <file name="Proposition_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.Proposition_BehaviorDescriptor" />
+    </file>
+    <file name="RoleinFact_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.RoleinFact_BehaviorDescriptor" />
+    </file>
+    <file name="RoleinFacttype_BehaviorDescriptor.java">
+      <unit at="9,0,20,0" name="CoreLanguage.behavior.RoleinFacttype_BehaviorDescriptor" />
+    </file>
+    <file name="StringType_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.StringType_BehaviorDescriptor" />
+    </file>
+    <file name="StringValue_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.StringValue_BehaviorDescriptor" />
+    </file>
+    <file name="ValueOfVariableRoleinFact_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.ValueOfVariableRoleinFact_BehaviorDescriptor" />
+    </file>
+    <file name="VariableChild_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.VariableChild_BehaviorDescriptor" />
+    </file>
+    <file name="VariableReferenceRole_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.VariableReferenceRole_BehaviorDescriptor" />
+    </file>
+    <file name="VariableReference_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.VariableReference_BehaviorDescriptor" />
+    </file>
+    <file name="VariableRole_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.VariableRole_BehaviorDescriptor" />
+    </file>
+    <file name="VariableRoleinFacttype_BehaviorDescriptor.java">
+      <unit at="6,0,14,0" name="CoreLanguage.behavior.VariableRoleinFacttype_BehaviorDescriptor" />
+    </file>
+    <file name="VariableType_BehaviorDescriptor.java">
+      <unit at="7,0,15,0" name="CoreLanguage.behavior.VariableType_BehaviorDescriptor" />
+    </file>
+    <file name="Variable_BehaviorDescriptor.java">
+      <unit at="9,0,20,0" name="CoreLanguage.behavior.Variable_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

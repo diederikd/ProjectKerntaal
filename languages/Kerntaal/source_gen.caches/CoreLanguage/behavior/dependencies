@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="CoreLanguage.behavior.AbstractValue_BehaviorDescriptor" file="AbstractValue_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Context_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Fact_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Facttype_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.IntegerType_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.IntegerValue_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.ObjecttypeReferenceRole_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.ObjecttypeRole_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Objecttype_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Phrase_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Proposition_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.StringType_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.StringValue_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.ValueOfVariableRoleinFact_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.VariableChild_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.VariableReferenceRole_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.VariableReference_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.VariableRole_BehaviorDescriptor" />
+    <classNode dependClassName="CoreLanguage.behavior.Variable_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Arrays" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Concept_BehaviorDescriptor" file="Concept_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Context_BehaviorDescriptor" file="Context_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Fact_BehaviorDescriptor" file="Fact_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Facttype_BehaviorDescriptor" file="Facttype_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.IdentifyingVariable_BehaviorDescriptor" file="IdentifyingVariable_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.IntegerType_BehaviorDescriptor" file="IntegerType_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.VariableType_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.IntegerValue_BehaviorDescriptor" file="IntegerValue_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.AbstractValue_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.ObjecttypeReferenceRole_BehaviorDescriptor" file="ObjecttypeReferenceRole_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.ObjecttypeRoleinFacttype_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.ObjecttypeRole_BehaviorDescriptor" file="ObjecttypeRole_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.ObjecttypeRoleinFacttype_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.ObjecttypeRoleinFacttype_BehaviorDescriptor" file="ObjecttypeRoleinFacttype_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.RoleinFacttype_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Objecttype_BehaviorDescriptor" file="Objecttype_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Phrase_BehaviorDescriptor" file="Phrase_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Proposition_BehaviorDescriptor" file="Proposition_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.RoleinFact_BehaviorDescriptor" file="RoleinFact_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.RoleinFacttype_BehaviorDescriptor" file="RoleinFacttype_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.StringType_BehaviorDescriptor" file="StringType_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.VariableType_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.StringValue_BehaviorDescriptor" file="StringValue_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.AbstractValue_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.ValueOfVariableRoleinFact_BehaviorDescriptor" file="ValueOfVariableRoleinFact_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.RoleinFact_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.VariableChild_BehaviorDescriptor" file="VariableChild_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.IdentifyingVariable_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.VariableReferenceRole_BehaviorDescriptor" file="VariableReferenceRole_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.VariableRoleinFacttype_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.VariableReference_BehaviorDescriptor" file="VariableReference_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.IdentifyingVariable_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.VariableRole_BehaviorDescriptor" file="VariableRole_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.VariableRoleinFacttype_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.VariableRoleinFacttype_BehaviorDescriptor" file="VariableRoleinFacttype_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.RoleinFacttype_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.VariableType_BehaviorDescriptor" file="VariableType_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="CoreLanguage.behavior.Variable_BehaviorDescriptor" file="Variable_BehaviorDescriptor.java">
+    <classNode dependClassName="CoreLanguage.behavior.Concept_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_Behavior" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+</dependenciesRoot>
+
